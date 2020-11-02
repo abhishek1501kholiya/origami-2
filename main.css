@@ -1,0 +1,21 @@
+h1{
+    font: bolder;
+}
+ul {
+
+    display: flexbox;
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+li a {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+display: flexbox; 
+left: 150px;
+width: 60px;
+background-color:springgreen;
+}
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
